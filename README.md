@@ -1,0 +1,3 @@
+- 👋 Hi, My name is Uendi, Junior Front-End Developer with a Bachelor degree in Software Engineering.
+- 💻 Technologies: HTML, CSS, JAVASCRIPT, BOOTSTRAP
+- 📌 Hobbies: Coding, Driving, Traveling
